@@ -1,10 +1,12 @@
 function returnsThree() {
-  // Your code here 
+  // Your code here
+  return '3';
 }
 
 function reciprocal(n) {
-  // Your code here 
+  // Your code here
 }
+
 
 module.exports = {
   returnsThree,
